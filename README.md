@@ -1,13 +1,17 @@
 # ProjectDemiurge-MODELING-AGENCY-D
 
+Open in Google Colab: [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/abc123desygn/ProjectDemiurge-MODELING-AGENCY-D/blob/main/ABC_123_DESYGN_%E2%84%A2_(DEMIURGE)_MODELIING_AGENCY_D.ipynb)
+
 *️⃣📶🤖 
 
 ## ABC 123 DESYGN ™: MODELING AGENCY D ™
+
 
 🤖 MAGNETRON ™ TECHNOLOGY ARTIFICIAL INTELLIGENCE (RESEARCH) 🤖
 
 PART OF **PROJECT DEMIURGE**™ (REALITY MATRIX ™ TECHNOLOGY RESEARCH)
 --------------------------------------------------------
+
 
 ABC 123 DESYGN ™ (CUSTOM) A.I TOOL FOR MODELING AGENCY derived from MAGNETRON ™ research. This features a machine learning model trained on a diverse set of analog photographs..
 
